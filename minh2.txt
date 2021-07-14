@@ -1,1 +1,3 @@
 this is minh2.txt
+Edit minh2.txt to recognize
+More message for stronger difference
