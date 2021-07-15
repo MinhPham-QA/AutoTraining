@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="testngSuite">
+
+    <!--<parameter name="myName" value="Minh Pham"/>-->
+    <test name="testngFeature">
+
+        <!--<groups>
+            <run>
+                <include name="smokeTest"/>
+            </run>
+        </groups>-->
+
+        <classes>
+            <class name="testng.TestDataProvider1"/>
+        </classes>
+    </test>
+</suite>
